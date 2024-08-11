@@ -1,1 +1,2 @@
 ECHO is on.
+I'm adding new text 
